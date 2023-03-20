@@ -1,5 +1,7 @@
-### Hi there 👋
+### about me
 
+- I’m currently learning golang、python、c、c++、java🤔🤔🤔
+- Fun fact: I'm learning, but I can't seem to do anything, you know😄😄😄
 <!--
 **anfty/anfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
